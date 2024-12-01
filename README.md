@@ -1,5 +1,6 @@
 #  Microbot
-[![My Skills](https://skillicons.dev/icons?i=python,huggingface,RAG)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch)](https://skillicons.dev)
+<br>
 Project Microbot is a lightweight implementation of a Retrieval-Augmented Generation (RAG) pipeline designed for answering questions about microservices. The project demonstrates the integration of retrieval and generation models to build an efficient Q&A system, with optimizations for GPU acceleration.
 
 ## Features
